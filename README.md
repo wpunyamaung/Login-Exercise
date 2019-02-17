@@ -1,8 +1,8 @@
 # Login-Excercise
 How to run the test? 
-*** Please ensure that ***
-    - An andriod emulator installed on your machine
-    - Android SDK has been downloaded and ANDROID_HOME has been set
+*** Please ensure that *** 
+- An andriod emulator installed on your machine
+- Android SDK has been downloaded and ANDROID_HOME has been set
 
 For Mac OS
 - Start the emulator by opening Terminal and run the commands, 
